@@ -1,0 +1,29 @@
+html {
+    background: #f3feff;
+}
+
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-size: 32px;
+}
+
+#wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: rgb(236, 235, 167);
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+
+ul{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0;
+}
+
